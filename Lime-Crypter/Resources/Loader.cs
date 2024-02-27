@@ -7,7 +7,7 @@ using System.Resources;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
 using System.Threading;
-
+//loader
 [assembly: AssemblyTitle("#AssemblyProduct")]
 [assembly: AssemblyDescription("#AssemblyDescription")]
 [assembly: AssemblyCompany("#AssemblyProduct")]
