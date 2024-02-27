@@ -10,7 +10,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-
+//Latest Build
 namespace Lime_Crypter.Build
 {
     public class SetupBuild
